@@ -1,0 +1,257 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSansCond-Bold
+FamilyName:IBM Plex Sans Condensed
+StyleName:Bold
+MenuName:IBM Plex Sans Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:IBM Plex Sans Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSansCondensed-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70012
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Condensed Bold
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSansCond-Italic
+FamilyName:IBM Plex Sans Condensed
+StyleName:Italic
+MenuName:IBM Plex Sans Condensed
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:IBM Plex Sans Condensed Italic
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSansCondensed-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72564
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Condensed Italic
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-Medium
+FamilyName:IBM Plex Sans
+StyleName:Medium
+MenuName:IBM Plex Sans Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans Medium
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSans-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135660
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Medium
+NameArray:0,Win,1,IBM Plex Sans Medium
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-Italic
+FamilyName:IBM Plex Sans
+StyleName:Italic
+MenuName:IBM Plex Sans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:IBM Plex Sans Italic
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSans-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139336
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Italic
+NameArray:0,Win,1,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans
+FamilyName:IBM Plex Sans
+StyleName:Regular
+MenuName:IBM Plex Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131036
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans
+NameArray:0,Win,1,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSansCond-Medium
+FamilyName:IBM Plex Sans Condensed
+StyleName:Medium
+MenuName:IBM Plex Sans Condensed Medium
+StyleBits:0
+WeightClass:500
+WidthClass:3
+AngleClass:0
+FullName:IBM Plex Sans Condensed Medium
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSansCondensed-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70168
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Condensed Medium
+NameArray:0,Win,1,IBM Plex Sans Condensed Medium
+NameArray:0,Win,16,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-Bold
+FamilyName:IBM Plex Sans
+StyleName:Bold
+MenuName:IBM Plex Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans Bold
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSans-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133120
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Bold
+NameArray:0,Win,1,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235436
+FileModTime:209884117
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSansCond
+FamilyName:IBM Plex Sans Condensed
+StyleName:Regular
+MenuName:IBM Plex Sans Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:IBM Plex Sans Condensed
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSansCondensed-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69424
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans Condensed
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-SemiBold
+FamilyName:IBM Plex Sans
+StyleName:SemiBold
+MenuName:IBM Plex Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/bricedury/Desktop/Dossier_livrables_DPE/Document fonts/IBMPlexSans-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135656
+FileModTime:581342018
+NameArray:0,Mac,4,IBM Plex Sans SemiBold
+NameArray:0,Win,1,IBM Plex Sans SemiBold
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
