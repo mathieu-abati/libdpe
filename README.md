@@ -3,6 +3,8 @@
 Ceci est une librairie PHP pour générer des diagrammes de diagnostic de
 performance énergétique et climatique (DPE).
 
+[Voir la démo](https://libdpe.mathieu-abati.com)
+
 Voici quelques exemples générés via **libDPE**:
 
 <table>
